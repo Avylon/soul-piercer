@@ -1,5 +1,0 @@
-Patroklos,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Name,Input,Height,High,Mid,Low,Special Mid,Special Low,Damage,Impact,Hit Status,On Hit,Counter Hit Status,On Counter Hit,Can Guard Break,Guard Damage,Notes,Block Status,Block Frames,Just Guard Status,Just Guard Frames,Category,Horizontal,Vertical,Stab,Body,Slash,TC,TJ,STC,STJ,FRC
-Sliding Gale,A,High,TRUE,FALSE,FALSE,FALSE,FALSE,10,12,NORMAL,2,NORMAL,2,FALSE,-1,G cancel,NORMAL,-8,NORMAL,-13,A,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
-Sliding Gale,AA,High High,TRUE,FALSE,FALSE,FALSE,FALSE,24,12,NORMAL,5,NORMAL,5,FALSE,-1,G cancel,NORMAL,-6,NORMAL,-13,A,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
-Justice Strike,66B,Mid,FALSE,TRUE,FALSE,FALSE,FALSE,32,21,STUN,-1,STUN,-1,TRUE,12,STN [13],NORMAL,-2,NORMAL,-17,EIGHTWAYRUN,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
